@@ -1,6 +1,7 @@
 {
     "private": true,
     "scripts": {
+        "vercel": "npm install && npm run prod",
         "dev": "npm run development",
         "development": "mix",
         "watch": "mix watch",
