@@ -14,11 +14,11 @@
         rel="stylesheet">
 
     <!-- Vendor CSS Files -->
-    <link rel="stylesheet" href="{{ asset('vendor/bootstrap/css/bootstrap.min.css') }}" type="text/css">
-    <link rel="stylesheet" href="{{ asset('vendor/bootstrap-icons/bootstrap-icons.css') }}">
-    <link rel="stylesheet" href="{{ asset('vendor/glightbox/css/glightbox.min.css') }}">
-    <link rel="stylesheet" href="{{ asset('vendor/swiper/swiper-bundle.min.css') }}">
-    <link rel="stylesheet" href="{{ asset('vendor/aos/aos.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/vendor/bootstrap/css/bootstrap.min.css') }}" type="text/css">
+    <link rel="stylesheet" href="{{ asset('assets/vendor/bootstrap-icons/bootstrap-icons.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/vendor/glightbox/css/glightbox.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/vendor/swiper/swiper-bundle.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/vendor/aos/aos.css') }}">
     <!-- Template Main CSS File -->
     <link rel="stylesheet" href="{{ asset('assets/css/main.css') }}">
 </head>
@@ -46,13 +46,13 @@
         <div></div>
     </div>
     <!-- Vendor JS Files -->
-    <script src="{{ asset('vendor/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
-    <script src="{{ asset('vendor/glightbox/js/glightbox.min.js') }}"></script>
-    <script src="{{ asset('vendor/purecounter/purecounter_vanilla.js') }}"></script>
-    <script src="{{ asset('vendor/isotope-layout/isotope.pkgd.min.js') }}"></script>
-    <script src="{{ asset('vendor/swiper/swiper-bundle.min.js') }}"></script>
-    <script src="{{ asset('vendor/aos/aos.js') }}"></script>
-    <script src="{{ asset('vendor/php-email-form/validate.js') }}"></script>
+    <script src="{{ asset('assets/vendor/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
+    <script src="{{ asset('assets/vendor/glightbox/js/glightbox.min.js') }}"></script>
+    <script src="{{ asset('assets/vendor/purecounter/purecounter_vanilla.js') }}"></script>
+    <script src="{{ asset('assets/vendor/isotope-layout/isotope.pkgd.min.js') }}"></script>
+    <script src="{{ asset('assets/vendor/swiper/swiper-bundle.min.js') }}"></script>
+    <script src="{{ asset('assets/vendor/aos/aos.js') }}"></script>
+    <script src="{{ asset('assets/vendor/php-email-form/validate.js') }}"></script>
 
     <!-- Template Main JS File -->
     <script src="{{ asset('assets/js/main.js') }}"></script>
