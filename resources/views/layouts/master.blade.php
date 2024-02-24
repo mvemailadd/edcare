@@ -15,12 +15,12 @@
 
     <!-- Vendor CSS Files -->
     <link rel="stylesheet" href="{{ asset('assets/vendor/bootstrap/css/bootstrap.min.css') }}" type="text/css">
-    <link rel="stylesheet" href="{{ asset('assets/vendor/bootstrap-icons/bootstrap-icons.css') }}">
-    <link rel="stylesheet" href="{{ asset('assets/vendor/glightbox/css/glightbox.min.css') }}">
-    <link rel="stylesheet" href="{{ asset('assets/vendor/swiper/swiper-bundle.min.css') }}">
-    <link rel="stylesheet" href="{{ asset('assets/vendor/aos/aos.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/vendor/bootstrap-icons/bootstrap-icons.css') }}" type="text/css">
+    <link rel="stylesheet" href="{{ asset('assets/vendor/glightbox/css/glightbox.min.css') }}" type="text/css">
+    <link rel="stylesheet" href="{{ asset('assets/vendor/swiper/swiper-bundle.min.css') }}" type="text/css">
+    <link rel="stylesheet" href="{{ asset('assets/vendor/aos/aos.css') }}" type="text/css">
     <!-- Template Main CSS File -->
-    <link rel="stylesheet" href="{{ asset('assets/css/main.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/css/main.css') }}" type="text/css">
 </head>
 
 <body class="index-page" data-bs-spy="scroll" data-bs-target="#navmenu">
@@ -46,18 +46,18 @@
         <div></div>
     </div>
     <!-- Vendor JS Files -->
-    <script src="{{ asset('assets/vendor/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
-    <script src="{{ asset('assets/vendor/glightbox/js/glightbox.min.js') }}"></script>
-    <script src="{{ asset('assets/vendor/purecounter/purecounter_vanilla.js') }}"></script>
-    <script src="{{ asset('assets/vendor/isotope-layout/isotope.pkgd.min.js') }}"></script>
-    <script src="{{ asset('assets/vendor/swiper/swiper-bundle.min.js') }}"></script>
-    <script src="{{ asset('assets/vendor/aos/aos.js') }}"></script>
-    <script src="{{ asset('assets/vendor/php-email-form/validate.js') }}"></script>
+    <script src="{{ asset('assets/vendor/bootstrap/js/bootstrap.bundle.min.js') }}" type="application/javascript"></script>
+    <script src="{{ asset('assets/vendor/glightbox/js/glightbox.min.js') }}" type="application/javascript"></script>
+    <script src="{{ asset('assets/vendor/purecounter/purecounter_vanilla.js') }}" type="application/javascript"></script>
+    <script src="{{ asset('assets/vendor/isotope-layout/isotope.pkgd.min.js') }}" type="application/javascript"></script>
+    <script src="{{ asset('assets/vendor/swiper/swiper-bundle.min.js') }}" type="application/javascript"></script>
+    <script src="{{ asset('assets/vendor/aos/aos.js') }}" type="application/javascript"></script>
+    <script src="{{ asset('assets/vendor/php-email-form/validate.js') }}" type="application/javascript"></script>
 
     <!-- Template Main JS File -->
-    <script src="{{ asset('assets/js/main.js') }}"></script>
-    <script src="{{ asset('assets/js/jquery-3.2.1.slim.min.js') }}"></script>
-    <script src="{{ asset('assets/js/keywords.js') }}"></script>
+    <script src="{{ asset('assets/js/main.js') }}" type="application/javascript"></script>
+    <script src="{{ asset('assets/js/jquery-3.2.1.slim.min.js') }}" type="application/javascript"></script>
+    <script src="{{ asset('assets/js/keywords.js') }}" type="application/javascript"></script>
 
 </body>
 
